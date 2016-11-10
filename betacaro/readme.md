@@ -22,4 +22,4 @@ dùng những mã này chơi với server và  chọn lựa cho mình một đư
 
 Vì những mã này cứ cách một vài tiếng đồng hồ thì lại thay đổi một bảng mã khác nên các bạn cần tận dụng thời gian một cách hợp lý để có thể thắng được trò chơi này
 
-flag is : SVATTT{W3c0m3_t0_MITM!}
+flag is : SVATTT{W3lc0m3_t0_MITM!}
