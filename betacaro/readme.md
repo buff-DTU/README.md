@@ -21,3 +21,5 @@ cứ tiếp tục như vậy bạn sẽ lấy được những mã tương ứng
 dùng những mã này chơi với server và  chọn lựa cho mình một đường đi thích hợp nếu thắng liên tiếp bạn sẽ nhận được cờ. 
 
 Vì những mã này cứ cách một vài tiếng đồng hồ thì lại thay đổi một bảng mã khác nên các bạn cần tận dụng thời gian một cách hợp lý để có thể thắng được trò chơi này
+
+flag is : SVATTT{W3c0m3_t0_MITM!}
